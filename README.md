@@ -1,2 +1,2 @@
 # ng5-parallax
-Parallax implementation in angular from scratch.
+Parallax implementation in angular 5 from scratch.
